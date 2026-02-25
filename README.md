@@ -16,23 +16,6 @@ django-crispy-forms, crispy-bootstrap5 para formularios y UI
 django-filter para filtros en APIs
 y más según el requirements.txt
 
-📁 Estructura Básica del Proyecto
-
-gestor_turnos_proyecto/
-├── gestor/                  # Aplicación principal
-│   ├── migrations/
-│   ├── models.py
-│   ├── views.py
-│   ├── serializers.py
-│   ├── urls.py
-│   └── ...
-├── gestor_turnos_proyecto/  # Configuración del proyecto
-│   ├── settings.py
-│   ├── urls.py             # Incluye rutas API y admin
-│   └── ...
-├── manage.py
-├── requirements.txt         # Dependencias
-
 📦 Instalación (Entorno Local)
 
 Clona el repositorio
